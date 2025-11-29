@@ -1,7 +1,3 @@
-Here’s a **README.md draft** for your project that includes names, purpose, and clear steps for running both SimPy and NetLogo models:
-
-***
-
 # **Lotus Checkout Counter Simulation**
 
 **Course:** TEB2103 – Modelling and Simulation  
